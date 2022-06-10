@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning & Data Science
 - 🌱 I’m currently a graduate student at UB
 - 💞️ I’m looking for full time opportunities
-- 📫 Reach out to me on lanbeee.github.io/
+- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/nabilkhaan/) | [Website](https://lanbeee.github.io/)
 
 <!---
 lanbeee/lanbeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
